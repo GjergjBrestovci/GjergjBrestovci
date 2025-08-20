@@ -20,6 +20,15 @@ jobs:
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
+          # Optionally define a personal token secret named BREAKOUT_TOKEN for more reliable API calls
+          github_token: ${{ secrets.BREAKOUT_TOKEN != '' && secrets.BREAKOUT_TOKEN || github.token }}
+
+      - name: Debug output directory (pre-move)
+        run: |
+          echo "Listing output directory (if exists) before moving:"
+          ls -al output || echo "output directory not found"
+          if [ -f output/light.svg ]; then head -n 5 output/light.svg; fi
+          if [ -f output/dark.svg ]; then head -n 5 output/dark.svg; fi
 
       - name: Move generated SVGs
         run: |
