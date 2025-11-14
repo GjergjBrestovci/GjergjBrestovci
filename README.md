@@ -6,7 +6,7 @@ Hi, I’m @GjergjBrestovci
 - 🌱 I’m currently learning Python, TypeScript, MySQL, Calculus, Go
 - 💞️ I’m looking to collaborate on just about everything
 - 📫 Reach me: gjergj.brestovci@gmail.com
-- ⚡ Fun fact: calculus is actually fun
+- ⚡ Fun fact: quantum mechanics is brain cancer 🫩
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
