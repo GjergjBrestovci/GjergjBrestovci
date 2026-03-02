@@ -3,7 +3,7 @@
 Hi, I’m @GjergjBrestovci
 
 - 👀 I’m interested in Quantum Mechanics, Machine Learning, and Web Development
-- 🌱 I’m currently learning Python, TypeScript, MySQL, Calculus, Go
+- 🌱 I’m currently learning Python, TypeScript, MySQL, Calculus, Rust
 - 💞️ I’m looking to collaborate on just about everything
 - 📫 Reach me: gjergj.brestovci@gmail.com
 - ⚡ Fun fact: quantum mechanics is brain cancer 🫩
