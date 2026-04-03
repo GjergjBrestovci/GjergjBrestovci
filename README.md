@@ -1,12 +1,29 @@
-## Gjergj Brestovci
+# Gjergj Brestovci
 
-Hi, I’m @GjergjBrestovci
+Full-stack developer based in Vienna. I build web apps and AI/ML tooling,
+with a focus on TypeScript, React, Node.js, and Python.
 
-- 👀 I’m interested in Quantum Mechanics, Machine Learning, and Web Development
-- 🌱 I’m currently learning Python, TypeScript, MySQL, Calculus, Rust
-- 💞️ I’m looking to collaborate on just about everything
-- 📫 Reach me: gjergj.brestovci@gmail.com
-- ⚡ Fun fact: quantum mechanics is brain cancer 🫩
+## Stack
+
+| Area        | Technologies                              |
+|-------------|-------------------------------------------|
+| Frontend    | React, Next.js, TypeScript, Tailwind CSS  |
+| Backend     | Node.js, Express.js, REST APIs            |
+| AI / ML     | PyTorch, HuggingFace, seq2seq models      |
+| Languages   | TypeScript, Python, Java, JavaScript      |
+| Tools       | Git, Linux, Docker                        |
+
+## Projects
+
+- **[Skylit](https://github.com/GjergjBrestovci/Skylit)** — AI-powered website generator.
+  Describe your idea, get a fully functional site. Built with TypeScript + React.
+
+- **Albanian NLP** — Seq2seq Albanian-to-English translation model built with
+  PyTorch and HuggingFace. One of very few open efforts in this language pair.
+
+## Contact
+
+📧 gjergj.brestovci@gmail.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
