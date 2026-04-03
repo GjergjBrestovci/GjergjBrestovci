@@ -18,7 +18,7 @@ with a focus on TypeScript, React, Node.js, and Python.
 - **[Skylit](https://github.com/GjergjBrestovci/Skylit)** — AI-powered website generator.
   Describe your idea, get a fully functional site. Built with TypeScript + React.
 
-- **Albanian NLP** — Seq2seq Albanian-to-English translation model built with
+- **[Albanian translator](https://github.com/GjergjBrestovci/Translator)** — Seq2seq Albanian-to-English translation model built with
   PyTorch and HuggingFace. One of very few open efforts in this language pair.
 
 ## Contact
