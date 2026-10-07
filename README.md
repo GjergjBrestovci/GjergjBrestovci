@@ -15,7 +15,7 @@ with a focus on TypeScript, React, Node.js, and Python.
 
 ## Projects
 
-- **[Skylit](https://github.com/GjergjBrestovci/skylit-app)** — A startup building EU compliance software as well as quality of life features such as reorder forecasting and accounting compliance.
+- **[Skylit.at](https://skylit.at)** — A startup building EU compliance software as well as quality of life features such as reorder forecasting and accounting compliance. Created by Gjergj Brestovci in collaboration with Jonathan Löscher and Fabian Gorski.
 
 - **[Albanian translator](https://github.com/GjergjBrestovci/Translator)** — Seq2seq Albanian-to-English translation model built with
   PyTorch and HuggingFace. One of very few open efforts in this language pair.
