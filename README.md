@@ -15,12 +15,12 @@ with a focus on TypeScript, React, Node.js, and Python.
 
 ## Projects
 
-- **[Skylit](https://github.com/GjergjBrestovci/Skylit)** — AI-powered website generator.
-  Describe your idea, get a fully functional site. Built with TypeScript + React.
+- **[Skylit](https://github.com/GjergjBrestovci/skylit-app)** — A startup building EU compliance software as well as quality of life features such as reorder forecasting and accounting compliance.
 
 - **[Albanian translator](https://github.com/GjergjBrestovci/Translator)** — Seq2seq Albanian-to-English translation model built with
   PyTorch and HuggingFace. One of very few open efforts in this language pair.
-
+- **[elitaere-ausgabe.at](https://elitaere-ausgabe.at)** — A social media type newspaper site for students at HTL Spengergasse, currently only for 3EHIF, in the future for the entire school.
+- **[chen-software](https://github.com/GjergjBrestovci/chen-software)** — A quality of life software created for data modeling classes. Students can now easily create chen diagrams, and export them in PDF format for easy assignment completion. 
 ## Contact
 
 📧 gjergj.brestovci@gmail.com
